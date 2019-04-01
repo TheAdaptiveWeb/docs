@@ -4,7 +4,7 @@ description: An introduction to the Adaptive Web
 
 # Welcome to the Adaptive Web
 
-The Adaptive Web is a platform for developing cross-browser and cross-device _adapters_ for dynamically altering webpages to increase accessibility. 
+The Adaptive Web is a platform for developing user-configurable _adapters_ which dynamically alter webpages to increase accessibility. The platform allows these adapters to run across browsers and devices with the same codebase.
 
 ![The Adaptive Web configuration site](.gitbook/assets/image%20%282%29.png)
 

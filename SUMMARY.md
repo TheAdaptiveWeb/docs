@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to the Adaptive Web](README.md)
+* [Installing the Adaptive Web](installing-the-adaptive-web.md)
 
 ## Developing for the Adaptive Web
 
