@@ -4,7 +4,7 @@ description: >-
   Web using awcli
 ---
 
-# Getting Started
+# Getting Started with Adapter Development
 
 ## Installing awcli
 

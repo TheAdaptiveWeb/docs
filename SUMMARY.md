@@ -4,9 +4,9 @@
 * [Installing the Adaptive Web](installing-the-adaptive-web.md)
 * [Configuring Adapters](configuring-adapters.md)
 
-## Developing for the Adaptive Web
+## Adapter Development
 
-* [Getting Started](developing/getting-started.md)
+* [Getting Started with Adapter Development](developing/getting-started.md)
 * [Advanced Usage](developing/advanced-usage.md)
 * [Adapter Config \(awconfig.json\)](developing/adapter-config-awconfig.json.md)
 
