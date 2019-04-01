@@ -55,7 +55,9 @@ First, ensure you have developer mode enabled by visiting the [configuration sit
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-_Automatic reload is enabled by default. This will reload the page when a change is detected in your adapter. You can disable this if you wish._
+{% hint style="info" %}
+Automatic reload is enabled by default. This will reload the page when a change is detected in your adapter. You can disable this if you wish.
+{% endhint %}
 
 Then, return to your workspace, and run
 

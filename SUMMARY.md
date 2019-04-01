@@ -2,6 +2,7 @@
 
 * [Welcome to the Adaptive Web](README.md)
 * [Installing the Adaptive Web](installing-the-adaptive-web.md)
+* [Configuring Adapters](configuring-adapters.md)
 
 ## Developing for the Adaptive Web
 

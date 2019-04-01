@@ -1,5 +1,5 @@
 ---
-description: An introduction to the Adaptive Web
+description: An introduction to the Adaptive Web platform
 ---
 
 # Welcome to the Adaptive Web
