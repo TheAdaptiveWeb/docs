@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Introduction to the Adaptive Web](README.md)
-* [Untitled](untitled.md)
+* [Welcome to the Adaptive Web](README.md)
 
 ## Welcome
 
