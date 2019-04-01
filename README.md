@@ -12,9 +12,9 @@ Adapters are add-ons which are injected into webpages to detect and rectify acce
 
 ## Motivation
 
-The Adaptive Web was created to address a common problem in web accessibility; while a number of standards exist to try and ensure that pages are accessible, universal adoption remains a problem. By placing the burden of ensuring adoption on developers, we end up in a situation where - particularly with developers with low budgets or time constraints - accessibility is seen as optional.
+The Adaptive Web was created to address a common problem in web accessibility; while a number of standards exist to try and ensure that pages are accessible, universal adoption remains an issue. By placing the burden of ensuring adoption on developers, we end up in a situation where - particularly developers with low budgets or time constraints - accessibility is seen as optional.
 
-Due to this lack of attention, common errors occur which results in inaccessible sites. Many tools already exist to detect these errors \(some even suggesting fixed code\), but there is a lack of tooling around fixing these errors on end-user browsers.
+Due to this lack of attention, common errors occur which results in inaccessible sites. Many tools already exist to detect these errors \(some even suggesting code fixes\), but there is a lack of tooling around fixing these errors on end-user browsers.
 
 Further, by providing such a platform we open the door to innovation that can only be provided in a decentralised manor such as automated audio description of videos, or client-side alt-tag generation.
 
