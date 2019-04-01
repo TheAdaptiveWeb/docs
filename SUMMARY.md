@@ -12,5 +12,8 @@
 
 ## Contributing
 
-* [Architecture](contributing/architecture.md)
+* [Platform Architecture](contributing/architecture.md)
+* [Core Platform](contributing/core-platform.md)
+* [Wrappers](contributing/wrappers.md)
+* [Adapters](contributing/adapters.md)
 
