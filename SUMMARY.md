@@ -4,9 +4,9 @@
 
 ## Developing for the Adaptive Web
 
-* [Getting Started](command-line-tools/getting-started.md)
-* [Advanced Usage](command-line-tools/advanced-usage.md)
-* [Adapter Config \(awconfig.json\)](command-line-tools/adapter-config-awconfig.json.md)
+* [Getting Started](developing/getting-started.md)
+* [Advanced Usage](developing/advanced-usage.md)
+* [Adapter Config \(awconfig.json\)](developing/adapter-config-awconfig.json.md)
 
 ## Contributing
 
