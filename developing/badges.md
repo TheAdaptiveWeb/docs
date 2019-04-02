@@ -4,9 +4,11 @@ description: Install badges for GitHub or your site
 
 # Badges
 
-### Install on the Adaptive Web
+Install badges provide an easy way to allow users to install your adapter from your GitHub repository or website.
 
-#### Light \(Default\)
+![](../.gitbook/assets/image%20%284%29.png)
+
+#### Light
 
 ![](../.gitbook/assets/badge.svg)
 
