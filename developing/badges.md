@@ -4,8 +4,6 @@ description: Install badges for GitHub or your site
 
 # Badges
 
-Badges are available for your GitHub repository:
-
 ### Install on the Adaptive Web
 
 #### Light \(Default\)
