@@ -10,7 +10,6 @@
 * [User Preferences](developing/user-preferences.md)
 * [UI Elements](developing/ui-elements.md)
 * [Web Requests](developing/making-web-requests.md)
-* [Advanced Usage](developing/advanced-usage.md)
 
 ## Contributing
 
