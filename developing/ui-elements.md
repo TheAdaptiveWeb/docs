@@ -130,8 +130,6 @@ card.setSightedVisibility(false);
 {% endtab %}
 {% endtabs %}
 
-
-
 ## Text
 
 Text elements are used to display text to the user.
