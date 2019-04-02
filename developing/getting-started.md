@@ -6,6 +6,15 @@ description: >-
 
 # Getting Started with Adapter Development
 
+## Prerequisites
+
+To follow this guide, you need [node.js](https://nodejs.org) and [npm](https://npmjs.com) installed. You should also have installed [the Adaptive Web browser extension for Chrome or Firefox](../installing-the-adaptive-web.md).
+
+Adapters are built with TypeScript or JavaScript. For guides about writing in these languages, see the following resources:
+
+* TypeScript in 5 minutes - [https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+* JavaScript \| MDN - [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ## Installing awcli
 
 _awcli_ is the official command line tooling for the Adaptive Web. While it is possible to create adapters without awcli, it provides tools to get up and running right away. It also features integration with the Adaptive Web for Web Extensions, which allows you to debug your adapters in real-time through Chrome or Firefox.
@@ -32,12 +41,14 @@ Once you have entered the information, the tools will install the necessary depe
 
 ## Writing your adapter
 
-In your workspace, you should now see an `index.ts` or `index.js` \(depending on wether you selected a TypeScript or JavaScript install\). In this guide, we will use TypeScript code snippets however the process is the same for JavaScript. Open this file in an IDE of your choice.
+In your workspace, you should now see an `index.ts` or `index.js` \(depending on wether you selected a TypeScript or JavaScript install\). Open this file in an IDE of your choice.
 
 The generated script should look something like this:
 
 {% tabs %}
-{% tab title="TypeScript \(index.ts\)" %}
+{% tab title="TypeScript" %}
+{% code-tabs %}
+{% code-tabs-item title="index.ts" %}
 ```typescript
 import { AdapterContext } from 'adaptiveweb'; 
 declare const aw: AdapterContext;
@@ -46,14 +57,20 @@ declare const aw: AdapterContext;
 
 console.log('Hello, Adaptive Web!');
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 {% endtab %}
 
-{% tab title="JavaScript \(index.js\)" %}
+{% tab title="JavaScript" %}
+{% code-tabs %}
+{% code-tabs-item title="index.js" %}
 ```javascript
 /* ... */
 
 console.log('Hello, Adaptive Web!');
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 {% endtab %}
 {% endtabs %}
 
@@ -65,7 +82,7 @@ awcli features a watcher which lets you watches for changes to your adapter and 
 
 First, ensure you have developer mode enabled by visiting the [configuration site](https://adaptiveweb.io/configure) \(by visiting the link, or by clicking the Adaptive Web icon in the toolbar of your browser\), navigate to settings, and enable developer mode:
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 {% hint style="info" %}
 Automatic reload is enabled by default. This will reload the page when a change is detected in your adapter. You can disable this if you wish.
@@ -78,4 +95,26 @@ awcli watch
 ```
 
 to start watching for changes.
+
+## Using the adapter context
+
+Adapters have access to the _adapter context_, an object which exposes methods that are implemented by browser-specific wrappers.
+
+By using the adapter context, you can access:
+
+* User-specified preferences for your adapter
+* 
+## Building a production-ready version of your adapter
+
+To build a production-ready version of your adapter, you can run
+
+```text
+awcli build
+```
+
+This will output your compiled and optimised adapter to a JSON file under your workspace directory at `dist/[YOUR_ADAPTER_ID].json`.
+
+## Publishing your adapter
+
+Once you have finished development
 

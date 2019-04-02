@@ -7,9 +7,11 @@
 ## Adapter Development
 
 * [Getting Started with Adapter Development](developing/getting-started.md)
+* [User Preferences](developing/user-preferences.md)
+* [UI Elements](developing/untitled.md)
+* [Making Web Requests](developing/making-web-requests.md)
 * [Advanced Usage](developing/advanced-usage.md)
 * [Adapter Config \(awconfig.json\)](developing/adapter-config-awconfig.json.md)
-* [Untitled](developing/untitled.md)
 
 ## Contributing
 
