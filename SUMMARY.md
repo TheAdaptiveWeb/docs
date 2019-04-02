@@ -9,6 +9,7 @@
 * [Getting Started with Adapter Development](developing/getting-started.md)
 * [Advanced Usage](developing/advanced-usage.md)
 * [Adapter Config \(awconfig.json\)](developing/adapter-config-awconfig.json.md)
+* [Untitled](developing/untitled.md)
 
 ## Contributing
 
@@ -19,5 +20,6 @@
 
 ## Miscellaneous
 
+* [Frequently Asked Questions \(FAQs\)](misc/frequently-asked-questions-faqs.md)
 * [Install Badges](misc/badges.md)
 

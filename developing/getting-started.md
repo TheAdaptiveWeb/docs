@@ -36,6 +36,8 @@ In your workspace, you should now see an `index.ts` or `index.js` \(depending on
 
 The generated script should look something like this:
 
+{% tabs %}
+{% tab title="TypeScript \(index.ts\)" %}
 ```typescript
 import { AdapterContext } from 'adaptiveweb'; 
 declare const aw: AdapterContext;
@@ -44,6 +46,16 @@ declare const aw: AdapterContext;
 
 console.log('Hello, Adaptive Web!');
 ```
+{% endtab %}
+
+{% tab title="JavaScript \(index.js\)" %}
+```javascript
+/* ... */
+
+console.log('Hello, Adaptive Web!');
+```
+{% endtab %}
+{% endtabs %}
 
 You can start writing your adapter code here. Adapters are injected directly into target web pages, so you should write your adapters assuming you have access to the window \(for example you call methods such as `document.findElementsByTagName`\). 
 
