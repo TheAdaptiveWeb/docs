@@ -102,8 +102,10 @@ Adapters have access to the _adapter context_, an object which exposes methods t
 
 By using the adapter context, you can access:
 
-* User-specified preferences for your adapter
-* 
+* [User-specified preferences for your adapter](user-preferences.md),
+* [Adaptive Web flavoured UI elements](ui-elements.md),
+* [The web request API](making-web-requests.md)
+
 ## Building a production-ready version of your adapter
 
 To build a production-ready version of your adapter, you can run
@@ -116,5 +118,15 @@ This will output your compiled and optimised adapter to a JSON file under your w
 
 ## Publishing your adapter
 
-Once you have finished development
+Once you have finished development, you can publish your adapter with
+
+```text
+awcli publish
+```
+
+This will redirect you to login with GitHub if this is your first time publishing. Once you have logged in, awcli will create a draft pull request \(PR\) for you.
+
+Provide a description for your adapter, and any additional information you want to add. When you are ready, submit the PR and await our final decision.
+
+We code review every adapter to ensure security and quality, so please keep in mind that this process can take some time.
 
