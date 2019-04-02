@@ -91,5 +91,5 @@ Currently, the following list of preference types are supported by the platform:
 | text | string | Text field with no additional validation |
 | switch | boolean | A switch which can be set to on or off |
 
-If you feel that the platform is missing a type, [please submit an issue](https://github.com/TheAdaptiveWeb/AdaptiveWeb.io/issues).
+If you feel that the platform is missing a type, [please feel free to submit an issue](https://github.com/TheAdaptiveWeb/AdaptiveWeb.io/issues).
 
