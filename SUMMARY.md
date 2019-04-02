@@ -9,7 +9,6 @@
 * [Getting Started with Adapter Development](developing/getting-started.md)
 * [Advanced Usage](developing/advanced-usage.md)
 * [Adapter Config \(awconfig.json\)](developing/adapter-config-awconfig.json.md)
-* [Install Badges](developing/badges.md)
 
 ## Contributing
 
@@ -17,4 +16,8 @@
 * [Core Platform](contributing/core-platform.md)
 * [Wrappers](contributing/wrappers.md)
 * [Adapters](contributing/adapters.md)
+
+## Miscellaneous
+
+* [Install Badges](misc/badges.md)
 
