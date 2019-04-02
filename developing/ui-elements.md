@@ -1,5 +1,5 @@
 ---
-description: Adding Adaptive Web flavoured UI elements to web pages
+description: Adding Adaptive Web flavoured UI elements to web pages.
 ---
 
 # UI Elements

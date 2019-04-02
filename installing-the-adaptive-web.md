@@ -1,5 +1,5 @@
 ---
-description: This guide walks you through installing the Adaptive Web for your browser
+description: This guide walks you through installing the Adaptive Web for your browser.
 ---
 
 # Installing the Adaptive Web

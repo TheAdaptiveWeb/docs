@@ -1,5 +1,5 @@
 ---
-description: Specifying user-configurable preferences for your adapter
+description: Specifying user-configurable preferences for your adapter.
 ---
 
 # User Preferences

@@ -1,7 +1,7 @@
 ---
 description: >-
   This guide will walk you through creating your first adapter for the Adaptive
-  Web using awcli
+  Web using awcli.
 ---
 
 # Getting Started with Adapter Development
