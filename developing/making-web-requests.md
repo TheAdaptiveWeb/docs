@@ -4,8 +4,6 @@ description: Making web requests using the XHRService.
 
 # Web Requests
 
-Web requests can be made from the Adapter Context.
-
 ## Basic requests
 
 A `GET` request can be made by calling the `request` method with a URL as the first parameter.
