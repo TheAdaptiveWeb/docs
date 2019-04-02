@@ -2,7 +2,7 @@
 description: Install badges for GitHub or your site
 ---
 
-# Badges
+# Install Badges
 
 Install badges provide an easy way to allow users to install your adapter from your GitHub repository or website.
 
