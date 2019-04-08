@@ -8,7 +8,3 @@ You may however still use third-party APIs as part of your adapter code. The cod
 
 If this is a problem for your adapter, we may grant permission to use other licenses with your published adapters under specific circumstances. Contact us at [opensource@adaptiveweb.io](mailto:opensource@adaptiveweb.io) to enquire about this.
 
-## Q2
-
-Answer 2.
-

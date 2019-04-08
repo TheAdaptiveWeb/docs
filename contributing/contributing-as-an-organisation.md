@@ -12,9 +12,31 @@ We're looking for partners who can help us to provide these innovations to peopl
 
 Thanks to our open-source contributors, the Adaptive Web is getting better every day. Below are some examples of what the community has built so far:
 
-\[TODO\]
+#### Adaptive Contrast ratios
+
+For sites that contain page elements that do not conform to the [Web Content Accessibility Guidelines 2.1 \(WCAG 2.1\)](https://www.w3.org/TR/WCAG21/), the Adaptive Web can find and fix these problems:
+
+![](../.gitbook/assets/image%20%287%29.png)
+
+#### Video Audio Description
+
+For visually impaired users, the Adaptive Web can provide audio description of web videos based on Deep Learning models:
+
+![](../.gitbook/assets/image%20%2816%29.png)
+
+#### Image Alt Tag Generation
+
+The Adaptive Web can generate alt-tags from images that do not have any.
+
+#### Personalisation
+
+All of these features are highly customisable and fine-tuneable to suit users individual needs.
 
 ## How you can help
 
-\[TODO\]
+We are looking for enthusiastic partners to get this technology into the hands of the people who need it.
+
+ Access to information and services on the web is becoming a hugely important aspect of modern life. Inaccessible sites may occur for a variety of reasons such as the site no longer being actively maintained, low development budgets and/or timeframes, or lack of knowledge regarding accessibility. While there has been, and should be greater focus on the importance of developers conforming to web accessibility standards, a new solution is needed to make sure information is universally accessible.
+
+If you think you can help us in our mission to make the web more accessible, please get in touch at [opensource@adaptiveweb.io](mailto:opensource@adaptiveweb.io)
 

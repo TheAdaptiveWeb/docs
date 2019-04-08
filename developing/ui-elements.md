@@ -17,7 +17,7 @@ UI elements should be used sparingly, and only when user input is required, or f
 
 Cards are containers which allow for content to be organised
 
-![An example of a blank card](../.gitbook/assets/image%20%2813%29.png)
+![An example of a blank card](../.gitbook/assets/image%20%2814%29.png)
 
 ### When to use
 
@@ -216,7 +216,7 @@ text.setText(child);
 
 Buttons allow users to make actions directly from a target page.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 ### Usage
 
