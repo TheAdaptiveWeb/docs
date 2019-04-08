@@ -65,7 +65,7 @@ Below is an example of declaring a text field with key "myPreference" and defaul
 
 If we now run our adapter on developer mode, we can see our preference has been added to the configuration site:
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ## Accessing preferences from your adapter
 

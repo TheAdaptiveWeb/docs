@@ -6,7 +6,7 @@ description: Install badges for GitHub or your site
 
 Install badges provide an easy way to allow users to install your adapter from your GitHub repository or website.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 #### Light
 

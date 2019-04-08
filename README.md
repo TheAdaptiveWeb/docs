@@ -6,7 +6,7 @@ description: An introduction to the Adaptive Web platform.
 
 The Adaptive Web is a platform for developing user-configurable _adapters_ which dynamically alter webpages to increase accessibility. The platform allows these adapters to run across browsers and devices with the same codebase.
 
-![The Adaptive Web configuration site](.gitbook/assets/image%20%287%29.png)
+![The Adaptive Web configuration site](.gitbook/assets/image%20%2811%29.png)
 
 Adapters are add-ons which are injected into webpages to detect and rectify accessibility problems with the page. Adapters are provided with a set of tools that are implemented by _wrappers_ which bind the actions to platform-specific code. A common interface is provided to end-users to allow them to specify settings for each adapter.
 
