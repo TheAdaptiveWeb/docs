@@ -82,7 +82,7 @@ awcli features a watcher which lets you watches for changes to your adapter and 
 
 First, ensure you have developer mode enabled by visiting the [configuration site](https://adaptiveweb.io/configure) \(by visiting the link, or by clicking the Adaptive Web icon in the toolbar of your browser\), navigate to settings, and enable developer mode:
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 {% hint style="info" %}
 Automatic reload is enabled by default. This will reload the page when a change is detected in your adapter. You can disable this if you wish.
