@@ -14,11 +14,6 @@
 
 ## Contributing
 
-* [Becoming a Contributor](contributing/becoming-a-contributor.md)
-* [Platform Architecture](contributing/architecture.md)
-* [Core Platform](contributing/core-platform.md)
-* [Wrappers](contributing/wrappers.md)
-* [Adapters](contributing/adapters.md)
 * [Contributing as an Organisation](contributing/contributing-as-an-organisation.md)
 * [Adapter Publishing Terms](contributing/adapter-publishing-terms.md)
 * [Code of Conduct](contributing/code-of-conduct.md)
