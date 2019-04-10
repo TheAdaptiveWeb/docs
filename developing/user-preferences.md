@@ -52,7 +52,7 @@ Below is an example of declaring a text field with key "myPreference" and defaul
     ...
     "preferenceSchema": {
         "myPreference": {
-            "type": "string",
+            "type": "text",
             "default": "Hello, World!",
             "friendlyName": "Message",
             "description": "Logged to the console by the adapter"
